@@ -1,4 +1,20 @@
-demo:
-  jdbc: http://localhost:8761/eureka
-demo1:
-  haha: let go
+#mail
+spring
+  mail:
+    benmu.from: mts-orders@benmu-health.com
+    host: smtp.exmail.qq.com
+    username: mts-orders@benmu-health.com
+    password: 901283uhkajhsdbiASDS
+    port: -1
+    default-encoding: UTF-8
+    properties:
+      mail:
+        smtp:
+          auth: true
+          port: 465
+          ssl.enable: true
+          starttls:
+            enable: true
+            required: true
+
+
