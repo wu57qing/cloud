@@ -62,3 +62,11 @@ spring:
           starttls:
             enable: true
             required: true
+
+##防刷接口配置
+cloud.demo.gateway.limit:
+  time: 1
+  frequent: 3
+
+
+
