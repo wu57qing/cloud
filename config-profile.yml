@@ -1,0 +1,4 @@
+demo:
+  jdbc: http://localhost:8761/eureka
+demo1:
+  haha: let go
