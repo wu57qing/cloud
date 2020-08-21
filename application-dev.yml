@@ -1,5 +1,5 @@
 #mail
-spring
+spring:
   mail:
     benmu.from: mts-orders@benmu-health.com
     host: smtp.exmail.qq.com
