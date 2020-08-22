@@ -47,7 +47,8 @@ spring:
       # Spring监控AOP切入点，如x.y.z.service.*,配置多个英文逗号分隔
   ##email
   mail:
-    benmu.from: mts-orders@benmu-health.com
+    benmu.from: mts-orders111@benmu-health.com
+    # benmu.from: mts-orders@benmu-health.com
     host: smtp.exmail.qq.com
     username: mts-orders@benmu-health.com
     password: 901283uhkajhsdbiASDS
