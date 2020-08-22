@@ -65,8 +65,8 @@ spring:
 
 ##防刷接口配置
 cloud.demo.gateway.limit:
-  time: 2
-  frequent: 4
+  time: 3
+  frequent: 6
 
 
 
